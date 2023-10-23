@@ -21,7 +21,7 @@ const config = {
   organizationName: 'Yousef-Majidi', // Usually your GitHub org/user name.
   projectName: 'Docusaurus-Sample', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  trailingSlash: true,
 
 
   onBrokenLinks: 'throw',
